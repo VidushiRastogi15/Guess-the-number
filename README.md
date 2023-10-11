@@ -27,3 +27,7 @@ options. Guessing may also involve the intuition of the guesser,</p>
 
 ## Output
 ![image](https://github.com/VidushiRastogi15/Guess-the-number/assets/118375146/3f0f84ab-f907-4ecd-b076-b869c08e77eb)
+
+
+## Conclusion
+<p>I have created a simple number guessing game. Now, it’s your turn to think of games that you were playing when you were young. Make them using programming language and share with your friends. I can digitalize most of our childhood games. My guessing game worked correctly as it followed most of the objectives. It told you if your guess was too high or too low and if your guess was right it told you that also. It had a limit between 1-100 so that it wasn’t too hard for people to guess. As well as this the final, completed guessing game didn’t come up with error messages as it ran through the flow chart each time a number was entered which shows that it was correct. It was only a basic version and wasn’t expanded but it worked fine.</p>
